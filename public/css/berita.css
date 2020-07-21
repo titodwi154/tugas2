@@ -1,0 +1,62 @@
+#isiberita {
+    padding: 14px;
+    height: 950px;
+    width: 66%;
+    float: left;
+    background: rgb(255, 255, 255);
+    margin-top: 8px;
+
+  }
+  #isiberita.h3{
+      text-align: center;
+
+  }
+
+#isiberita.p{
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+#daftarberita{
+    padding: 14px;
+    height: 950px;
+    width: 66%;
+    float: left;
+    background: rgb(255, 255, 255);
+    margin-top: 8px;
+
+}
+  
+  
+
+@media (max-width: 920px) and (max-width: 920px) {
+    #isiberita {
+        padding: 14px;
+        height: 1200px;
+        width: 100%;
+        float: left;
+        background: white;
+        margin-top: 8px;
+        text-align: justify;
+        font-family: "Times New Roman", Times, serif;
+    }
+#isiberita img {
+        width: 80%;
+      }
+    
+    
+#daftarberita {
+        padding: 14px;
+        height: 1000px;
+        width: 100%;
+        float: left;
+        background: white;
+        text-align: justify;
+        font-family: "Times New Roman", Times, serif;
+    }
+#right-conten img {
+      width: 80%;
+    }
+    }
+    

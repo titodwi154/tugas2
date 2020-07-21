@@ -1,0 +1,62 @@
+body {
+    background-color: #cad5dd;
+  }
+
+#header{
+  position: relative;
+  padding: 14px;
+  height: 110px;
+  width: 100%;
+  background-color: white;
+}
+
+.baner img {
+  position: relative;
+  width: auto;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+
+  display:block;
+  -khtml-user-select:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select: none;
+  -o-user-select:none;
+  -user-select:none;
+  -unselectable:on;
+
+}
+
+.banertext{    
+  
+  display:block;
+  -khtml-user-select:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select: none;
+  -o-user-select:none;
+  -user-select:none;
+  -unselectable:on;
+
+  text-align: justify;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 60px;
+  color: blue;
+
+}
+
+@media (max-width: 720px) and (max-width: 720px) {
+  body {
+    background-color: rgba(255, 0, 0, 0.884);
+  }
+}
+
+@media (max-width: 920px) and (max-width: 920px) {
+  body {
+    background-color: rgba(21, 255, 0, 0.884);
+  }
+}

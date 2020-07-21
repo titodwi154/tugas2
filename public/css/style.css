@@ -1,0 +1,91 @@
+#right-conten {
+    padding: 14px;
+    height: 950px;
+    width: 28%;
+    float: left;
+    background: white;
+    margin-left: 8px;
+    margin-top: 8px;
+    width: 370px;
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+#right-conten img {
+    width: 340px;
+  }
+    
+#left-conten {
+    padding: 14px;
+    height: 950px;
+    width: 66%;
+    float: left;
+    background: rgb(255, 255, 255);
+    margin-top: 8px;
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  section.left-conten img {
+    width: 500px;
+  }
+
+  
+@media (max-width: 720px) and (max-width: 720px) {
+#left-conten {
+    padding: 14px;
+    height: 1000px;
+    width: 100%;
+    float: left;
+    background: white;
+    margin-top: 8px;
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+  }
+#left-conten img {
+    width: 80%;
+  }
+#right-conten {
+    padding: 14px;
+    height: 1000px;
+    width: 100%;
+    float: left;
+    background: white;
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+    
+  }
+#right-conten img {
+    width: 80%;
+  }
+}
+
+
+@media (max-width: 920px) and (max-width: 920px) {
+#left-conten {
+    padding: 14px;
+    height: 1200px;
+    width: 100%;
+    float: left;
+    background: white;
+    margin-top: 8px;
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+}
+#left-conten img {
+    width: 80%;
+  }
+  #right-conten {
+    padding: 14px;
+    height: 1000px;
+    width: 100%;
+    float: left;
+    background: white;
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+}
+#right-conten img {
+  width: 80%;
+}
+}
+
